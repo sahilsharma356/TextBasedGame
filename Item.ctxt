@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ class\ is\ a\ part\ of\ the\ Zuul\ text\ based\ adventure\ game.\ Instances\ of\ this\ class\ are\ items\r\n\ in\ various\ rooms\ of\ the\ Zuul\ World.\ \r\n\ \r\n\ @author\ Sahil\ Sharma\r\n\ @version\ October\ 20,\ 2017\r\n
+comment1.params=description\ weight
+comment1.target=Item(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n\ contructs\ an\ item\ with\ properties\ of\ the\ parameters\ being\ passed\ in.\ \r\n\ \r\n\ \r\n\ @param\ description\ The\ properties\ of\ the\ item\ \r\n\ @param\ weight\ The\ weight\ of\ the\ item.\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getRepresentation()
+comment2.text=\r\n\ creates\ a\ formatted\ string\ with\ the\ items\ description\ and\ weight.\ \r\n\r\n\ @return\ returns\ a\ String\ containing\ all\ attributes\ of\ the\ item.\ \r\n
+numComments=3
